@@ -2,7 +2,7 @@
 "00000001": 
     {
      "type": "load", 
-     "url": "http://example.com/notepad.exe",
+     "url": "http://127.0.0.1/notepad.exe",
      "dest": "c:\notepad.exe"
     },
 "00000002": 

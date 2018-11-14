@@ -1,1 +1,12 @@
-118232 notepad null
+{
+ "00000001": 
+    {
+    "type": "exec", 
+     "payload": "notepad"
+    }
+ "00000002": 
+    {
+    "type": "exec", 
+     "payload": "powershell"
+    }
+}

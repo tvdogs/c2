@@ -3,11 +3,11 @@
     {
      "type": "load", 
      "url": "http://127.0.0.1/notepad.exe",
-     "dest": "c:\notepad.exe"
+     "dest": "c:\\notepad.exe"
     },
 "00000002": 
     {
      "type": "exec", 
-     "payload": "c:\notepad.exe"
+     "payload": "c:\\notepad.exe"
     }
 }

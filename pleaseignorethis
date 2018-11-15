@@ -1,13 +1,17 @@
 {
 "00000001": 
     {
-     "type": "load", 
-     "url": "http://127.0.0.1/notepad.exe",
-     "dest": "C:\\tools\\notepad.exe"
+     "type": "exec", 
+     "payload": "C:\\windows\\system32\\notepad.exe"
     },
 "00000002": 
     {
      "type": "exec", 
-     "payload": "C:\\tools\\notepad.exe"
+     "payload": "C:\\windows\\system32\\cmd.exe"
+    },
+"00000003": 
+    {
+     "type": "exec", 
+     "payload": "echo !!!This computer was hacked!!! > MESSAGE.txt"
     }
 }

